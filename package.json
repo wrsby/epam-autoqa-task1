@@ -1,0 +1,23 @@
+{
+  "name": "epam-autoqa-task1",
+  "version": "0.0.1",
+  "description": "My very first package with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrsby/epam-autoqa-task1.git"
+  },
+  "keywords": [
+    "homework",
+    "epam"
+  ],
+  "author": "Vitali Daroshka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrsby/epam-autoqa-task1/issues"
+  },
+  "homepage": "https://github.com/wrsby/epam-autoqa-task1#readme"
+}
